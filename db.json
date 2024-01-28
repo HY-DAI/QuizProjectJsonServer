@@ -334,5 +334,13 @@
       ]
     }
   ],
-  "participations": [  ]
+  "participations": [  
+    {
+      "id": "0",
+      "playerName": "BestPlayerOfAllTime",
+      "score": 20,
+      "rate": 1,
+      "date": "2024-01-01T00:00:00.0000"
+    }
+  ]
 }
