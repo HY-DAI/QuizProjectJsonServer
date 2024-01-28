@@ -332,31 +332,6 @@
           "isCorrect": true
         }
       ]
-    },
-    {
-      "id": "14",
-      "text": "Quel personnage ne fait pas partie des compagnons de Sun Wukong, le roi des Singes ?",
-      "title": "Le Roi des Singes",
-      "image": "https://live.staticflickr.com/1449/24609752110_462576118c_b.jpg",
-      "position": 15,
-      "possibleAnswers": [
-        {
-          "text": "Un moine",
-          "isCorrect": false
-        },
-        {
-          "text": "Un esprit renard",
-          "isCorrect": true
-        },
-        {
-          "text": "Un homme à tête de cochon",
-          "isCorrect": false
-        },
-        {
-          "text": "Un cheval",
-          "isCorrect": false
-        }
-      ]
     }
   ],
   "participations": [  ]
